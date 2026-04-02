@@ -365,6 +365,6 @@ Produces the word "Go" in thinkertoy style, rendered in cyan in the terminal.
 
 ## Author
 
-Built by **Cornel** — a future Software Engineer.
+Built by **Cornel and Oluwatosin**
 
 > "The best code is code that each piece clearly knows its own job."
